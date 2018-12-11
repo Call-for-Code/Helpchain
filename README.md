@@ -6,4 +6,6 @@ The application has 2 feeds: one with real-time disaster alerts, showing the loc
 
 Code and documentation is in the process of being transferred. Watch this repository for updates on progress.
 
+Blog: [Blockchain brings trust back to charitable giving](https://developer.ibm.com/blogs/2018/10/17/improving-charitable-giving-with-trust-and-transparency/)
+
 [![Helpchain](https://img.youtube.com/vi/mrtwgLhHknQ/0.jpg)](https://www.youtube.com/embed/mrtwgLhHknQ)

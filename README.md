@@ -6,6 +6,13 @@ The application has 2 feeds: one with real-time disaster alerts, showing the loc
 
 Code and documentation is in the process of being transferred. Watch this repository for updates on progress.
 
+This application will consist of six repos including this one, which serves as the entry point and contains umbrella documentation:
+- [Helpchain-backend](https://github.com/IBM/Helpchain-backend)
+- [Helpchain-chaincode](https://github.com/IBM/Helpchain-chaincode)
+- [Helpchain-mobile](https://github.com/IBM/Helpchain-mobile)
+- [Helpchain-ngo](https://github.com/IBM/Helpchain-ngo)
+- [Helpchain-web](https://github.com/IBM/Helpchain-web)
+
 Blog: [Blockchain brings trust back to charitable giving](https://developer.ibm.com/blogs/2018/10/17/improving-charitable-giving-with-trust-and-transparency/)
 
 [![Helpchain](https://img.youtube.com/vi/mrtwgLhHknQ/0.jpg)](https://www.youtube.com/embed/mrtwgLhHknQ)
